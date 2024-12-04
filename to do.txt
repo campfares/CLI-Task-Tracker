@@ -1,0 +1,6 @@
+list by status (done , todo, inprogress) ##done
+make remove function ## done
+show all items ## done
+make database remove all items in json file and update items  
+update method ## done
+mark as (done , inprogress ) 
